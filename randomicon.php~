@@ -1,9 +1,9 @@
 <?php
 
 $datosconexion = array(
-	"servername" => "13.80.21.227", 		
-	"username" => "azure", 			
-	"password" => "Azure1", 		
+	"servername" => "", 		// PON AQUI LA IP DE TU SERVIDOR
+	"username" => "", 			// PON AQUI EL USUARIO DE LA BD
+	"password" => "", 			// PON AQUI LA CONTRASEÑA DE LA BD
 	"dbname" => "log"
 	);
 
